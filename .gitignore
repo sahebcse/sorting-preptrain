@@ -1,7 +1,9 @@
 # Compiled class file
 *.class
 *.exe
-*.vscode
+*.vscode*
+*.o
+
 
 # Log file
 *.log
